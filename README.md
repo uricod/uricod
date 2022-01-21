@@ -9,6 +9,7 @@
 
 ### 👋 **HI, I'M URI and I'm a CPA turned dev that specializes in custom API integrations**
 - [Overview](#overview)
+- [Experience](#experience-in-years)
 - [References](#references)
 - [Contact Info](#contact-me)
 
