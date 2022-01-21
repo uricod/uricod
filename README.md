@@ -5,7 +5,9 @@
 ![Image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Image](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 
-### 👋 **HI, I'M URI and I'm a CPA turned dev that specializes in custom API integrations and data flow automation's**
+<p><a href="https://www.automationconslt.com">➡️ Check out my website</a></p>
+
+### 👋 **HI, I'M URI and I'm a CPA turned dev that specializes in custom API integrations**
 - [Overview](#overview)
 
 
