@@ -4,11 +4,13 @@
 ![Image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Image](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
-![Image](https://github-readme-stats.vercel.app/api?username=uricod)
+
+### 👋 **HI, I'M URI and I'm a CPA turned dev that specializes in custom API integrations and data flow automation's**
+- [Overview](#overview)
 
 
-
-#### 👋 **HI, I'M URI**
+#### **Overview**
+- 🔭 I’m currently working on 
 
 
 <!--
@@ -16,7 +18,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
