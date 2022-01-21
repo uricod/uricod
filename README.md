@@ -3,7 +3,7 @@
 ![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Image](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+
 
 <p><a href="https://www.automationconslt.com">➡️ Check out my website</a></p>
 
@@ -12,16 +12,23 @@
 
 
 #### **Overview**
-- 🔭 I’m currently working on 
+🔭 I’m currently working on ...
+
+ 1. Integrating bank transactions into an accounting system. (900+ bank accounts)
+ 1. Integrating time clock system and payroll software. (300+ Employee are paid based off this data)
+ 1. Quant fund that specializes in options trading.
+ 1. Defi Protocol mixed with data science. 
+
+🌱 I’m currently learning ...
+- <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" height=20/>
+- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=22/>
 
 
 <!--
-**uricod/uricod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
  ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
