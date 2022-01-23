@@ -44,7 +44,7 @@
  ```python
  def integrate_metro_invoices(metro_invoices, Intacct):
      """
-     Integrated a vendor bills into Intacct. (Accounting system) /n There are 1500 bills a month and it was being done manually. /n I worked with vendor to send invoice details and backup to ftp and automatically create invoices in the system. /n Eliminated 100's of hours of work.
+    Integrated a vendor bills into Intacct. (Accounting system) There were 1500 bills a month being processed manually. 
      """
      hours_saved="thousands"
      return "done"
