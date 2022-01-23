@@ -20,24 +20,27 @@
  1. Integrating time clock system and payroll software. (300+ Employee are paid based off this data)
  1. Quant fund that specializes in options trading.
  1. Defi Protocol mixed with data science. 
+ 1. ERC/PPP Optimization Algorithm.
 
 🌱 I’m currently learning ...
 - <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" height=20/>
-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=22/>
+- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=20/>
 
 👯 I’m looking to collaborate on ...
 1. DAO's, blockchain and open source API libraries.
 
 #### **Experience in Years**
-<img src="https://img.shields.io/badge/Python-5-green" height=20/>
-<img src="https://img.shields.io/badge/Intacct-3-brightgreen" height=20/>
+![image](https://img.shields.io/badge/Python-5-green)
+![Image](https://img.shields.io/badge/VBA-6-orange)
 
+#### **Github Stats**
+![Uricod Github Stats](https://github-readme-stats.vercel.app/api?username=uricod&show_icons=true&theme=dark&count_private=true&hide=issues,prs)
 
 #### **References**
 1. For references please message me on LinkedIn.
 
 #### **Contact Me**
-1. You can submit query on website above or pm on LinkedIn.
+> You can submit query on website above or pm on LinkedIn.
 
 
 <!--
