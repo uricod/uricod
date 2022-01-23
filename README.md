@@ -10,10 +10,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=ff6e96&center=true&vCenter=true&width=900&lines=Let+code+do+the+work.)](https://git.io/typing-svg)
 
-<p><a href="https://www.automationconslt.com">➡️ Check out my website</a></p>
-
 ### 👋 **HI, I'M URI and I'm a CPA turned dev that specializes in custom API integrations**
 
+<p><a href="https://www.automationconslt.com">➡️ Check out my website</a></p>
 
 <details>
  <summary><mark style="background-color: lightblue">Table of Contents</mark></summary>
