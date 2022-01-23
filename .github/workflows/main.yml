@@ -7,9 +7,107 @@ on:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
+
   github-metrics:
     runs-on: ubuntu-latest
+    if: "github.repository == 'lowlighter/metrics'"
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout repository
+        uses: actions/checkout@v2
         with:
+          fetch-depth: 0
+      - name: Checkout examples
+        run: git checkout examples
+
+      - name: 🗃️ Base content - Default metrics
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          output_action: none
+          delay: 120
+          user: lowlighter
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
+      - name: 🧱 Core - Organization
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.organization.svg
+          user: github
+          token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+          base: header, repositories
+          output_action: none
+          delay: 120
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
+      - name: 🧱 Core - Large display
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.large.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_display: large
+          output_action: none
+          delay: 120
+          user: lowlighter
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
+      - name: 🧱 Core - JSON metrics
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.example.json
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_output: json
+          output_action: none
+          delay: 120
+          user: lowlighter
+          plugins_errors_fatal: yes
+      - name: 🧱 Core - PNG metrics
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.example.png
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_output: png
+          output_action: none
+          delay: 120
+          user: lowlighter
+          plugins_errors_fatal: yes
+      - name: 🧱 Core - Plugin error example
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.error.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_projects: yes
+          plugins_errors_fatal: no
+          output_action: none
+          delay: 120
+          user: lowlighter
+        if: ${{ success() || failure() }}
+      - name: 📅 Isometric commit calendar - Half-year calendar
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          output_action: none
+          delay: 120
+          user: lowlighter
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
+      - name: 📅 Isometric commit calendar - Full-year calendar
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          output_action: none
+          delay: 120
+          user: lowlighter
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
