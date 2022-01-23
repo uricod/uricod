@@ -8,7 +8,7 @@
 ![Image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=ff6e96&center=true&vCenter=true&width=750&lines=Let+code+do+the+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=ff6e96&center=true&vCenter=true&width=900&lines=Let+code+do+the+work.)](https://git.io/typing-svg)
 
 <p><a href="https://www.automationconslt.com">➡️ Check out my website</a></p>
 
