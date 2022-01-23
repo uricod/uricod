@@ -21,7 +21,7 @@
 - [Past Projects](#past-projects)
 - [Github Stats](#github-public-stats)
 - [Github Private Stats](#github-private-stats)
-- [Github other stats](#github-stats)
+- [Visitor Stats](#visitor-stats)
 - [References](#references)
 - [Contact Info](#contact-me)
 
@@ -90,8 +90,8 @@
 #### **Github Private Stats**
 ![Metrics](/github-metrics.svg)
 
-#### **Github Stats**
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+#### **Visitor Stats**
+![visitors](https://visitor-badge.glitch.me/badge?page_id=uricod.uricod&left_color=green&right_color=red)
 
 #### **References**
 >For references please message me on LinkedIn.
