@@ -38,10 +38,36 @@
 
 #### **Past Projects**
 <details>
- <summary>AP Process Dashboard</summary>
+ <summary><mark style="background-color: lightblue">Metro Medical Integration</mark></summary>
+<div>
 
-<img src="assets/BI Demo 2.PNG" height=300/>
+ ```python
+ def integrate_metro_invoices(metro_invoices, Intacct):
+     """
+     Integrated a vendor bills into Intacct. (Accounting system) There are 1500 bills a month and it was being done manually. I worked with vendor to send invoice details and backup to ftp and automatically create invoices in the system. Eliminated 100's of hours of work.
+     """
+     hours_saved="thousands"
+     return "done"
+ ```
 
+</div>
+</span>
+</details>
+
+<details>
+ <summary><mark style="background-color: lightblue">Monday.com Integration</mark></summary>
+<div> 
+
+ ```python
+ def integrate_metro_invoices(monday.com, Central_DB):
+     """
+     Integrated Monday.com Referrals into a central DB warehouse for displaying to operations team.
+     """
+     live_referral_analytics = ✔️
+     return "done"
+ ```
+
+ </div>
 </details>
 
 #### **Github Public Stats**
