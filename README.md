@@ -36,7 +36,7 @@
 
 #### **Github Stats**
 ![Uricod Github Stats](https://github-readme-stats.vercel.app/api?username=uricod&show_icons=true&theme=dracula&count_private=true&hide=issues,contribs&include_all_commits=true)
-
+![Metrics](/github-metrics.svg)
 
 #### **References**
 1. For references please message me on LinkedIn.
