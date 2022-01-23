@@ -1,4 +1,4 @@
-![Banner](./assets/LinkedIn-Banner.jpg)
+![Banner](LinkedIn-Banner.jpg)
 
 <a href="https://www.linkedin.com/in/urinussbaum/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=28></a>
 ![Image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
