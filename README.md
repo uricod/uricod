@@ -10,6 +10,7 @@
 ### 👋 **HI, I'M URI and I'm a CPA turned dev that specializes in custom API integrations**
 - [Overview](#overview)
 - [Experience](#experience-in-years)
+- [Past Projects](#past-projects)
 - [Github Stats](#github-public-stats)
 - [Github Private Stats](#github-private-stats)
 - [References](#references)
@@ -35,6 +36,14 @@
 ![image](https://img.shields.io/badge/Python-5-green)
 ![Image](https://img.shields.io/badge/VBA-6-orange)
 
+#### **Past Projects**
+<details>
+ <summary>AP Process Dashboard</summary>
+
+<img src="assets/BI Demo 2.PNG" height=300/>
+
+</details>
+
 #### **Github Public Stats**
 ![Uricod Github Stats](https://github-readme-stats.vercel.app/api?username=uricod&show_icons=true&theme=dracula&count_private=true&hide=issues,contribs&include_all_commits=true)
 
@@ -42,21 +51,8 @@
 ![Metrics](/github-metrics.svg)
 
 #### **References**
-1. For references please message me on LinkedIn.
+>For references please message me on LinkedIn.
 
 #### **Contact Me**
 > You can submit query on website above or pm on LinkedIn.
 
-
-<!--
-Here are some ideas to get you started:
-
- ...
-
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
