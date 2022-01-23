@@ -10,7 +10,8 @@
 ### 👋 **HI, I'M URI and I'm a CPA turned dev that specializes in custom API integrations**
 - [Overview](#overview)
 - [Experience](#experience-in-years)
-- [Github Stats](#github-stats)
+- [Github Stats](#github-public-stats)
+- [Github Private Stats](#github-private-stats)
 - [References](#references)
 - [Contact Info](#contact-me)
 
@@ -34,8 +35,10 @@
 ![image](https://img.shields.io/badge/Python-5-green)
 ![Image](https://img.shields.io/badge/VBA-6-orange)
 
-#### **Github Stats**
+#### **Github Public Stats**
 ![Uricod Github Stats](https://github-readme-stats.vercel.app/api?username=uricod&show_icons=true&theme=dracula&count_private=true&hide=issues,contribs&include_all_commits=true)
+
+#### **Github Private Stats**
 ![Metrics](/github-metrics.svg)
 
 #### **References**
