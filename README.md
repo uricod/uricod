@@ -8,6 +8,14 @@
 <p><a href="https://www.automationconslt.com">➡️ Check out my website</a></p>
 
 ### 👋 **HI, I'M URI and I'm a CPA turned dev that specializes in custom API integrations**
+
+
+<details>
+ <summary><mark style="background-color: lightblue">Table of Contents</mark></summary>
+<div>
+
+#### **Table of Contents**
+
 - [Overview](#overview)
 - [Experience](#experience-in-years)
 - [Past Projects](#past-projects)
@@ -15,6 +23,10 @@
 - [Github Private Stats](#github-private-stats)
 - [References](#references)
 - [Contact Info](#contact-me)
+
+</div>
+</span>
+</details>
 
 #### **Overview**
 🔭 I’m currently working on ...
@@ -33,8 +45,9 @@
 1. DAO's, blockchain and open source API libraries.
 
 #### **Experience in Years**
-![image](https://img.shields.io/badge/Python-5-green)
-![Image](https://img.shields.io/badge/VBA-6-orange)
+[![Generic badge](https://img.shields.io/badge/Python-5-yellow.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/VBA-6-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Solidity-1-red.svg)](https://shields.io/)
 
 #### **Past Projects**
 <details>
