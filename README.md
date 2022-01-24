@@ -97,7 +97,7 @@
 ![Metrics](/github-metrics.svg)
 
 #### **Visitor Stats**
-![visitors](https://visitor-badge.glitch.me/badge?page_id=uricod.uricod&left_color=green&right_color=red)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=uricod.uricod)
 
 #### **References**
 >For references please message me on LinkedIn.
