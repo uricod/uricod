@@ -25,6 +25,8 @@
 - [Overview](#overview)
 - [Experience](#experience-in-years)
 - [Past Projects](#past-projects)
+- [Work History](#past-work-history)
+- [Education](#education)
 - [Github Stats](#github-public-stats)
 - [Github Private Stats](#github-private-stats)
 - [Visitor Stats](#visitor-stats)
@@ -41,7 +43,6 @@
  1. Integrating bank transactions into an accounting system. (900+ bank accounts)
  1. Integrating time clock system and payroll software. (300+ Employee are paid based off this data)
  1. Quant fund that specializes in options trading.
- 1. Defi Protocol mixed with data science. 
  1. ERC/PPP Optimization Algorithm.
 
 🌱 I’m currently learning ...
@@ -90,11 +91,23 @@
  </div>
 </details>
 
+#### **Past Work History**
+
+1. <img src="assets/pwc.jpg" width="25" height="25"></img> Jan 2016 - Intern at PriceWaterHouseCoopers - Assurance Associate 
+
+1. <img src="assets/LTC.jpg" width="25" height="25"></img> Mar 2016 - Feb 2018 - Finance Manager @ LTC Consulting Services. 
+
+1.  <img src="assets/Logo.png" width="25" height="25"></img> April 2018 - Current: Founder of AiBit - Working on Integrations from A - B integrations, A - Warehouse, and A - Custom Reports.
+
+#### **Education**
+1.  <img src="assets/fdu.jpg" width="25" height="25"></img> Masters In Accounting.
+1. Self Taught Coder.
+
 #### **Github Public Stats**
 ![Uricod Github Stats](https://github-readme-stats.vercel.app/api?username=uricod&show_icons=true&theme=dracula&count_private=true&hide=issues,contribs&include_all_commits=true)
 
 #### **Github Private Stats**
-![Metrics](/github-metrics.svg)
+![Metrics](assets/github-metrics.svg)
 
 #### **Visitor Stats**
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=uricod.uricod)
