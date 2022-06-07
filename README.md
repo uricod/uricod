@@ -1,18 +1,17 @@
 <p>
-    <img src="assets/Linkedin-Banner.jpg"  />
+    <img src="assets/libanner.png"  />
 </p>
 
-<a href="https://www.linkedin.com/in/urinussbaum/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=28></a>
 ![Image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=ff6e96&center=true&vCenter=true&width=900&lines=Let+code+do+the+work.)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=ff6e96&center=true&vCenter=true&width=900&lines=Let+code+do+the+work.)](https://git.io/typing-svg) -->
 
-### 👋 **HI, I'M URI and I'm a CPA turned dev that specializes in custom API integrations**
+### 👋 *HI, I'M URI and I'm a CPA turned dev that specializes in custom API integrations*
 
 <p><a href="https://www.automationconslt.com">➡️ Check out my website</a></p>
 
@@ -42,8 +41,7 @@
 
  1. Integrating bank transactions into an accounting system. (900+ bank accounts)
  1. Integrating time clock system and payroll software. (300+ Employee are paid based off this data)
- 1. Quant fund that specializes in options trading.
- 1. ERC/PPP Optimization Algorithm.
+ 1. Random Object creation based off web resources. [Link to Github](https://github.com/uricod/random-text)
 
 🌱 I’m currently learning ...
 - <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" height=20/>
@@ -58,6 +56,8 @@
 [![Generic badge](https://img.shields.io/badge/Solidity-1-red.svg)](https://shields.io/)
 
 #### **Past Projects**
+> For these past projects I have a person at each company that can verify the below claims.
+
 <details>
  <summary><mark style="background-color: lightblue">Metro Medical Integration</mark></summary>
 <div>
@@ -65,7 +65,7 @@
  ```python
  def integrate_metro_invoices(metro_invoices, Intacct):
      """
-    Integrated a vendor bills into Intacct. (Accounting system) There were 1500 bills a month being processed manually. 
+    Integrated a vendor bills into Intacct. There were 1500 bills a month being processed manually. 
      """
      hours_saved="thousands"
      return "done"
@@ -82,9 +82,41 @@
  ```python
  def integrate_metro_invoices(monday.com, Central_DB):
      """
-     Integrated Monday.com Referrals into a central DB warehouse for displaying to operations team.
+     Integrated Monday.com Referrals into a central DB warehouse for BI.
      """
      live_referral_analytics = ✔️
+     return "done"
+ ```
+
+ </div>
+</details>
+
+<details>
+ <summary><mark style="background-color: lightblue">Box.com and Medical billing System</mark></summary>
+<div> 
+
+ ```python
+ def integrate_billing_system(box.com, point_click_care):
+     """
+     Integrated Aging system from PCC to smartsheets built app through box.com
+     """
+     hours_saved = 100 and 'counting'
+     return "done"
+ ```
+
+ </div>
+</details>
+
+<details>
+ <summary><mark style="background-color: lightblue">Intacct & Payroll System</mark></summary>
+<div> 
+
+ ```python
+ def integrate_payroll_accruals(Intacct, payroll_system):
+     """
+     Integrated accounting system and payroll system so all data is brought over accurately and automatically..
+     """
+     hours_saved = 1000 and 'counting'
      return "done"
  ```
 
